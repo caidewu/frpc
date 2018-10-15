@@ -6,6 +6,10 @@
 
 ### 在内网服务器clone本项目
 
+```
+git clone https://github.com/caidewu/frpc.git
+```
+
 ### 修改frpc.ini配置
 
 当外网frps服务安装好后会生成如下配置
